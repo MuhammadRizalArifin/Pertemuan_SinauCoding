@@ -24,7 +24,7 @@ hr {
 }
 
 .background-1 {
-    background: #ffa07a url(html.png) left repeat-y;
+    background: #ffa07a url(html2.png) left repeat-y;
     background-size: 100px;
 }
 
@@ -33,7 +33,7 @@ hr {
 }
 
 .background-2 {
-    background: #add8e6 url(css.png) right repeat-y;
+    background: #add8e6 url(css1.png) right repeat-y;
     background-size: 100px;
 }
 
@@ -42,7 +42,7 @@ hr {
 }
 
 .background-3 {
-    background: #fafad2 url(js.png) left repeat-y;
+    background: #fafad2 url(js3.png) left repeat-y;
     background-size: 100px;
 }
 
