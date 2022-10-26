@@ -144,8 +144,8 @@ table {
 }
 
 .home img.right{
-    margin-top: 400px;
-    margin-right: 200px;
+   margin-top: 400px;
+    margin-right: 200px; 
     float: right;
 }
 
@@ -190,4 +190,26 @@ table {
 
 .about span {
     font-weight: 400;
+}
+
+.about img.left{
+    margin-top: 100px;
+    margin-left: 200px;
+    width: 36px;
+    height: 105px;
+    padding: 20px;
+    float: left;
+
+}
+
+.about1 {
+    font-weight: 400;
+    font-size: 14px;
+    color: #fff200;
+    float: left;
+    display: block;
+    position: absolute;
+    top: 45%;
+    left: 28%;
+    transform: translate(-50%, -50%)
 }
